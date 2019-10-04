@@ -15,7 +15,7 @@ public class Linklist {
 		public static LinkedList<String> names = new LinkedList<String>();
 		public static LinkedList<String> addresses=new LinkedList<String>();
 		public static void main(String[] args) throws IOException {
-			 String  name;
+			 String  name;//names
 		     String address;
 		     String contactNumber;
 		     String email;
